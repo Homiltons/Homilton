@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Shenzhen Institute of Advanced Technology](https://www.siat.ac.cn/), [Southern University of Science and Technology](https://www.sustech.edu.cn/). My research interest includes Computer vision, LLM, Deep learning.
+I'm a third year undergraduate student from [SIAT](https://www.siat.ac.cn/), [Sustech](https://www.sustech.edu.cn/). My research interest includes Computer vision, LLM, Deep learning.
 
 A data-driven personal website
 ======
