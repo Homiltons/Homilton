@@ -23,7 +23,7 @@ repository               : "Homiltons/Homilton"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "HK-1.jpg"
   name             : "Hongming Wang(王鸿铭)"
   pronouns         : "he/him"# example: "she/her"  
   bio              : "Graduate Student, Southern University of Science and Technology"
